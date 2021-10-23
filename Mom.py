@@ -58,12 +58,12 @@ logo="""
 
 
 --------------------------------------------------
-AUTHER=====>𝐌𝐫. 𝐍𝐈𝐊𝐈
-GITHUB =====>Niki-Cyber404
-FACEBOOK===>Niki.Cyber404
-INSTAGRAM==>niki.cyber404
-YOUTUBE====>JAMES NIKI
-TELEGRAM===>@Niki_Cyber404
+AUTHER: 𝐌𝐫. 𝐍𝐈𝐊𝐈
+GITHUB: Niki-Cyber404
+FACEBOOK: Niki.Cyber404
+INSTAGRAM: niki.cyber404
+YOUTUBE: JAMES NIKI
+TELEGRAM: @Niki_Cyber404
 --------------------------------------------------
                                 """
 
